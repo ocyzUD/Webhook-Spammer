@@ -10,7 +10,7 @@ A simple python script used to spam any webhooks. **Only use this tool for ethic
 ## ⚠️ **Important** ⚠️
 
 - **Do not use this tool for malicious purposes.** Spam and unauthorized use of webhooks without consent is illegal and unethical.
-- I am not accosiated with what you do and I should not be held responsible
+- I am not associated with what you do and I should not be held responsible
 
 ## Requirements
 
